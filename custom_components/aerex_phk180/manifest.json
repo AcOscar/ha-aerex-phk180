@@ -3,11 +3,11 @@
   "name": "Aerex PHK180",
   "version": "0.1.0",
   "config_flow": true,
-  "documentation": "https://github.com/DEIN_GITHUB/ha-aerex-phk180",
-  "issue_tracker": "https://github.com/DEIN_GITHUB/ha-aerex-phk180/issues",
+  "documentation": "https://github.com/AcOscar/ha-aerex-phk180",
+  "issue_tracker": "https://github.com/AcOscar/ha-aerex-phk180/issues",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@DEIN_GITHUB"],
+  "codeowners": ["@ACOscar"],
   "iot_class": "local_polling",
   "homeassistant": "2024.1.0"
 }
