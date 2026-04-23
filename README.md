@@ -47,7 +47,7 @@ Inoffizielle Home Assistant Integration für das **Aerex PHK180** Passivhaus-Kom
 ## Installation via HACS
 
 1. HACS → Integrations → ⋮ → Custom repositories
-2. URL: `https://github.com/DEIN_GITHUB/ha-aerex-phk180`
+2. URL: `https://github.com/AcOscar/ha-aerex-phk180`
 3. Kategorie: Integration
 4. Download → Neustart HA
 5. Einstellungen → Geräte & Dienste → Integration hinzufügen → "Aerex PHK180"
