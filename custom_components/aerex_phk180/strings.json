@@ -1,0 +1,23 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Aerex PHK180 einrichten",
+        "description": "Gib die IP-Adresse und die Zugangsdaten deiner Aerex PHK180 ein.",
+        "data": {
+          "host": "IP-Adresse",
+          "username": "Benutzername",
+          "password": "Passwort"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Verbindung zur Aerex PHK180 fehlgeschlagen. Bitte IP-Adresse prüfen.",
+      "invalid_auth": "Falscher Benutzername oder falsches Passwort.",
+      "unknown": "Unbekannter Fehler aufgetreten."
+    },
+    "abort": {
+      "already_configured": "Aerex PHK180 ist bereits konfiguriert."
+    }
+  }
+}
